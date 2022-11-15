@@ -1,6 +1,8 @@
 # IDE project files
 *.vcxproj
 *.sln
+.idea
+*.iml
 
 # Prerequisites
 *.d
